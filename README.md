@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Warintorn Sathirasrindh (Mind)</h1>
 <h3 align="center">A Full-Stack developer in Training from Bangkok,Thailand.</h3>
 
-- 🌱 I’m currently learning **SQL.**
+<p align="center">- 🌱 I’m currently learning **SQL.**</p>
 
-- ⚡ Fun fact **I'm a bird-lover 🐤**
+<p align="center">- ⚡ Fun fact **I'm a bird-lover 🐤**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
