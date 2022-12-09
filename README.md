@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Warintorn Sathirasrindh (Mind)</h1>
 <h3 align="center">A Full-Stack developer in Training from Bangkok,Thailand.</h3>
 
-<p align="center">- 🌱 I’m currently learning **SQL.**</p>
+
 
 <p align="center">- ⚡ Fun fact **I'm a bird-lover 🐤**</p>
 
