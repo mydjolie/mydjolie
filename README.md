@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Warintorn Sathirasrindh (Mind)</h1>
-<h3 align="left">A Full-Stack developer in Training from Bangkok,Thailand.</h3>
+<h3 align="left">A Junior Full-Stack Developer from Bangkok,Thailand.</h3>
 
 
 
