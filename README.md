@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mydjolie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mydjolie" height="30" width="40" /></a>
+<a href="https://codepen.io/mind-sathirasarindh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mydjolie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/warintorn-sathirasrindh-519348152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/warintorn-sathirasrindh-519348152/" height="30" width="40" /></a>
 <a href="https://instagram.com/mydjolie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mydjolie_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mydjolie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mydjolie" height="30" width="40" /></a>
